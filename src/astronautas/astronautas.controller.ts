@@ -9,3 +9,4 @@ export class AstronautasController {
         return this.astronautaService.create(createAstronauta)
     }
 }
+//xd
